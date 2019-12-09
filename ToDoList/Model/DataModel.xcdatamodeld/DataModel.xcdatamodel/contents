@@ -10,7 +10,7 @@
         <relationship name="newCategory" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Category" syncable="YES"/>
     </entity>
     <elements>
-        <element name="Item" positionX="-3021.50390625" positionY="-4.52734375" width="128" height="88"/>
         <element name="Category" positionX="-3222.5078125" positionY="24.12109375" width="128" height="73"/>
+        <element name="Item" positionX="-3021.50390625" positionY="-4.52734375" width="128" height="88"/>
     </elements>
 </model>
